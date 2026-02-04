@@ -49,7 +49,7 @@ name = st.sidebar.text_input("Enter your Name")
 if name :
     st.success(f"Welcome {name}")
 #=========================Title=================>>
-st.title("Quiz Game")
+st.title("Quiz Game 😅")
 #=======================================
 
 user_Answers = []
@@ -82,5 +82,6 @@ def quizgame():
         st.warning("😅 Thori aur mehnat chahiye")
 
 #=========================Completed ======================>>
+
              
 quizgame()
