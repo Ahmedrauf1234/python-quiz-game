@@ -81,6 +81,6 @@ def quizgame():
       else:
         st.warning("😅 Thori aur mehnat chahiye")
 
-st.title("my first quiz App")
+#=========================Completed ======================>>
              
 quizgame()
