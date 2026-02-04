@@ -80,5 +80,7 @@ def quizgame():
         st.info("👍 Good effort! Practice aur karo")
       else:
         st.warning("😅 Thori aur mehnat chahiye")
+
+st.title("my first quiz App")
              
 quizgame()
